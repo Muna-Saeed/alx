@@ -1,4 +1,4 @@
-Here's a summary of your scores across different projects:
+Here's a summary of My scores across different projects:
 
 **Onboarding:**
 - 100007 Welcome on board: 100.0%
