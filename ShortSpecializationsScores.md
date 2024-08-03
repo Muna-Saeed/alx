@@ -1,5 +1,3 @@
----
-
 **Scores Details**
 
 **Month #0: 101.23%**
@@ -43,5 +41,3 @@
 - 0x04. Files manager: 38.78%
 - 0x0A. Prime Game: 93.44%
 - Webstack - Portfolio Project (weight: 10): 145.59%
-
----
