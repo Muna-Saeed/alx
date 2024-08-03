@@ -12,7 +12,7 @@ Here is the information about the SE Foundations program:
   - Emacs
   - Vim
   - Git/Github
-  - C
+- **C**
     - Basics
     - Functions
     - Pointers
@@ -27,14 +27,14 @@ Here is the information about the SE Foundations program:
     - Shell
     - Compilation
     - Heap/Stack
-  - Linux
-    - Basics
-    - Permissions
-    - Redirections
-    - Syscalls
+    - Linux
+      - Basics
+      - Permissions
+      - Redirections
+      - Syscalls
     - Static Libraries
-  - Social Media
-  - Public Speaking/Stand ups
+    - Social Media
+    - Public Speaking/Stand ups
 
 **Second Trimester:**
 - **Python**
@@ -65,11 +65,11 @@ Here is the information about the SE Foundations program:
 - **Systems Engineering**
   - Open Systems Interconnection Model
   - TCP/IP
-  - Airbnb Project
-- **HTML**
-- **CSS**
-- **JSON**
-- **Unit Testing**
+- **Airbnb Project**
+- HTML
+- CSS
+- JSON
+- Unit Testing
 
 **Third Trimester:**
 - **Systems Engineering/DevOps**
@@ -83,17 +83,17 @@ Here is the information about the SE Foundations program:
   - Configuration Management (Puppet)
   - Load Balancers
   - Postmortems
-- **Networking**
-- **Monitoring**
+  - Networking
+  - Monitoring
 - **C**
   - Algorithms
     - Searching
-  - Airbnb Project
-- **JavaScript**
-  - JQuery
-- **Deployment**
-  - APIs
-  - Flask
+- **Airbnb Project**
+  - **JavaScript**
+    - JQuery
+  - **Deployment**
+    - APIs
+      - Flask
 - **Hack Days**
 - **Python**
   - ORMs (SQLAlchemy)
