@@ -1,4 +1,4 @@
-#All Projects
+# All Projects
 
 **Interview Preparation:**
 - 1213 0x00. Pascal's Triangle - 65.0%
